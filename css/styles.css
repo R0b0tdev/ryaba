@@ -1,0 +1,39 @@
+
+body {
+	background-color: tomato;
+	width: 1000px;
+	
+}
+
+
+.zagolovok {
+	background-color: grey;
+	padding: 30px;
+	width: 500px;
+	margin: 33vw, 0;
+}
+
+.vse-inputi {
+	display: block;
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+	border: 1px solid black;
+	font-size: 20px;
+
+}
+
+#button-fetch {
+	display: block;
+	width: 200px;
+	height: 50px;
+	margin-top: 20px;
+	background-color: tomato;
+	color: black;
+	text-align: center;
+
+}
+
+#button-fetch:hover {
+	background-color: red;
+}
